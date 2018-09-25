@@ -1,36 +1,13 @@
 # excelSearch
 
 #### Description
-在目录中查找 excel 内容
+通常情况下，我们会在 Excel 中查找一个信息，但是有的时候我们不记得这个信息放在了哪个 Excel 中，此时就可以使用这个工具，指定一个目录和关键词，软件就会在目录中的所有 Excel 中查找该关键词，如果 Excel 被保护了，本软件无法查询
 
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1. xxxx
-2. xxxx
-3. xxxx
 
 #### Instructions
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. 下载根目录中的 search.exe 即可使用
 
-#### Contribution
-
-1. Fork the project
-2. Create Feat_xxx branch
-3. Commit your code
-4. Create Pull Request
+#### 截图
 
 
-#### Gitee Feature
-
-1. You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2. Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3. Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4. The most valuable open source project [GVP](https://gitee.com/gvp)
-5. The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6. The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
