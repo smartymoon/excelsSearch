@@ -6,7 +6,7 @@
 
 #### Instructions
 
-1. 下载根目录中的 search.exe 即可使用
+下载根目录中的 search.exe 即可使用
 
 #### 截图
 
